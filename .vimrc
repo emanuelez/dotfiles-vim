@@ -13,3 +13,10 @@ syntax enable
 set background=dark
 colorscheme solarized
 
+" === Key Bindings ===
+
+" Make the arrow keys be annoying
+nmap <Left> <Esc>
+nmap <Up> <Esc>
+nmap <Right> <Esc>
+nmap <Down> <Esc>
